@@ -9,3 +9,4 @@ seaborn
 sweetviz
 omegaconf
 nbformat
+scikit-learn

@@ -1,7 +1,8 @@
 from configs import config
+from utils import set_seed
 
-def fit(conf):
-    pass
+def fit(config):
+    set_seed(config.general.seed)
 
 
 if __name__ == '__main__':
